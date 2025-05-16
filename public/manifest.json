@@ -4,7 +4,7 @@
   "version": "1.0",
   "description": "Analyzes job descriptions for fit based on education and visa requirements",
   "permissions": [
-    "sidePanel"
+    "sidePanel", "activeTab", "scripting"
   ],
   "background": {
     "service_worker": "background.js"
